@@ -11,3 +11,4 @@
 $|\vec{A}|=\sqrt{A_x^2 + A_y^2 + A_z^2}$
 
 <embed src="https://www.zhihu.com/equation?tex=Sum=\sum_{i=0}^{n}{\sqrt{x_i^2+y_i^2}}g" type="image/svg+xml"/>
+<img src="https://www.zhihu.com/equation?tex=Sum=\sum_{i=0}^{n}{\sqrt{x_i^2+y_i^2}}g" alt="some svg" id="my-svg" style="filter: invert(31%) sepia(91%) saturate(7379%) hue-rotate(351deg) brightness(97%) contrast(126%);"/>
